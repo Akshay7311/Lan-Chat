@@ -251,6 +251,7 @@ body, html {
   border-left: 1px solid rgba(79, 84, 92, 0.2);
 }
 
+
 /* Collapsed side panels */
 .chat-container.collapsed-left {
   grid-template-columns: 0 1fr 280px;
